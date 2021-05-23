@@ -1,4 +1,4 @@
-# Python sklearn kmean
+# Python sklearn kmean[won't update anymore]
 ### Introduction
 * kmean test code for object detection
 * Practicing git  
